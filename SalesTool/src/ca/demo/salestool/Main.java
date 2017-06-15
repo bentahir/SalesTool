@@ -12,5 +12,6 @@ public class Main {
 	public static void displayGreeting(){
 		System.out.println("HELLO HAPPY SALES PEOPLE");
 		System.out.println("THIS APP SHOWS SALES DATA");
+		System.out.println("Main : UPDATE FOR VERSION 2");
 	}
 }
