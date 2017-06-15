@@ -9,7 +9,7 @@ class SalesData{
 		
 		
 		for (int i=0; i < SalesData.length ; i++){
-			System.out.println("");
+			System.out.println("Next value: "+SalesData[i]);
 		}
 	}
 }
