@@ -13,5 +13,8 @@ public class Main {
 		System.out.println("HELLO HAPPY SALES PEOPLE");
 		System.out.println("THIS APP SHOWS SALES DATA");
 		System.out.println("Main : UPDATE FOR VERSION 2");
+		
+		
+		System.out.println("Display Test 1");
 	}
 }
